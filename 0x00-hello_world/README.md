@@ -1,0 +1,1 @@
+writes a scrupt that runs c programme

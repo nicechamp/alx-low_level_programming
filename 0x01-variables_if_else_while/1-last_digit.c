@@ -5,6 +5,7 @@
 /**
  * main - Print last digit
  *
+ * Return: Always 0 (Success)
  */
 int main(void)
 {

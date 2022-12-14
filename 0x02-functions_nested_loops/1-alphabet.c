@@ -1,10 +1,11 @@
 #include "main.h"
 
-/** Print alphabet - description
+/**
+ * Print alphabet - description
  * Description: Prints alphabets in lowercase, followed by a new line
  * Return: Nothing.
  */
-void print_alphabet()
+void print_alphabet(void)
 {
 	char e;
 
